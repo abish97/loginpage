@@ -1,0 +1,129 @@
+.body{
+  background-color:rgba(168, 164, 164,0.8);
+}
+.bd{
+  background-color:rgba(168, 164, 164,0.8);
+}
+.block{
+  margin-left: 140px;
+  margin-top: 100px;
+
+  border-radius: 10px;
+  background-color: white;
+}
+.block1{
+  margin-left: 140px;
+  margin-top: 100px;
+
+  border-radius: 10px;
+  background-color: white;
+}
+.bl{
+  margin-top: -280px;
+  margin-left: 20px;
+  visibility: visible;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+.bl3{
+  margin-top: 10px;
+  margin-left: 20px;
+visibility: visible;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+.bl1{
+  margin-top: -220px;
+  visibility:visible;
+  margin-left: 20px;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+.bl11{
+  margin-left: 20px;
+  visibility: visible;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+.bl13{
+  margin-left: 20px;
+  visibility: visible;
+  font-family: 'Kosugi Maru', sans-serif;
+  margin-top: 60px;
+}
+.bl2{
+  margin-top: -170px;
+  visibility: visible;
+  margin-left: 48px;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+.btn{
+  margin-top: 18px;
+  width: 60%;
+  margin-left: 10px;
+visibility: visible;
+  font-family: 'Kosugi Maru', sans-serif;
+  color: rgb(14, 249, 245);
+}
+.el{
+  /* position: absolute; */
+  margin-left: -400px;
+  width:90%;
+  /* padding-top: 30px; */
+  font-family: 'Kosugi Maru', sans-serif;
+  opacity: 0;
+}
+
+.elsub{
+  margin-left: -340px;
+  font-family: 'Kosugi Maru', sans-serif;
+  opacity: 0;
+}
+.dif{
+  position: absolute;
+  margin-top: -203px;
+  width: 12%;
+  margin-left: 1060px;
+
+  font-family: 'Kosugi Maru', sans-serif;
+  color: rgb(14, 249, 245);
+}
+.inp{
+  margin-left: 30px;
+}
+.heading{
+  margin-top:-50px;
+  margin-left: 140px;
+  font-size: 60px;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+.heading1{
+  margin-top:-150px;
+  margin-left: 140px;
+  font-size: 60px;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+
+.fi{
+  position: relative;
+  height: 550px;
+  width: 460px;
+}
+.form-horizontal{
+  position: absolute;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.sub{
+  border-radius: 20px;
+  margin-top: -256px;
+}
+.link{
+  visibility: visible;
+  position: absolute;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Kosugi Maru', sans-serif;
+  margin-left: 670px;
+  margin-top: -80px;
+  color: black;
+}
+.link:hover{
+  color: #42f4f4;
+}
